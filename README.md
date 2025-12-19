@@ -1,6 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 ## NAME: RAMALEKSHMI.K
-## REF NO: 25018067
+## REF NO: 25018604
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
